@@ -25,7 +25,7 @@ int main() {
 	  **************** => 5th
 	 */
 	// 인사말을 둘러싼 공백의 개수
-	const int pad = 2;
+	const int pad = 3;
 
 	// 출력할 행과 열 개수
 	const int rows = pad * 2 + 3; //행
